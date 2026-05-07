@@ -48,7 +48,8 @@ const Hero = () => {
               whileTap={{ scale: 0.95 }}
               className="bg-[#8B5E3C] text-white px-6 py-3 rounded-full hover:shadow-lg transition"
             >
-              View Menu
+
+             <a  href="#menu">View Menue</a>
             </motion.button>
 
             <motion.button
